@@ -1,6 +1,6 @@
 <?php
 
-namespace Sahakavatar\Studios\Providers;
+namespace Sahakavatar\StudiosModule\Providers;
 
 use Illuminate\Support\ServiceProvider;
 
